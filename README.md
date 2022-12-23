@@ -1,5 +1,18 @@
 # EmailApp
-The Email App is a program to generate email accounts with a random generated password for several individuals using their first name and last name aswell as their respective departments at a given firm(The firm can be changed in the Email Class variables)
+The Email App is a program to generate email accounts with a random generated password using first name and last name aswell as respective departments at a given firm.
 
-The idea is to make it easy for to generate a large number of emails with a one-time password, where the user of the newly created email can change password and set alternate email if wished to do so.
+The program also allows the user to reference an alternate email aswell as change the random generated password to a more memorable one.
+
+The Email App can easily be used to generate a large number of emails with attached password to avoid inputting first name, last name, department and company for every induvidual who needs a new email address. 
+Instead the program takes in scanner inputs for efficiency, where the only information that needs to be typed, is first name and last name for every indiviual.
+
+The program uses the following:
+
+* java.util.Scanner;
+* Getters and Setters
+* Conditional statements
+* Math.random
+* For loops
+
+//DNCLV
 
